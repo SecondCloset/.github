@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Welcome to the GoBolt Repository. Here you will begin building some of the worlds best tools that will push the boundaries of logistics.
+
 <!--
 
 **Here are some ideas to get you started:**
